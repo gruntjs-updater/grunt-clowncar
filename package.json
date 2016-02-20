@@ -40,10 +40,13 @@
     "grunt": "~0.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "clowncar", "svg", "responsive"
+    "gruntplugin",
+    "clowncar",
+    "svg",
+    "responsive"
   ],
   "dependencies": {
     "gm": "~1.11.0"
